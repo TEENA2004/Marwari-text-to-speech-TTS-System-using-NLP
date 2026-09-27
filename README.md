@@ -77,7 +77,10 @@ The web app — named **SwasthyaBot** — was built using Streamlit:
 | File / Folder | Description |
 |---|---|
 | `README.md` | Project overview and documentation |
-| `docs/` | Project report (PDF) and presentation (PPT) |
+| `docs/` | Project report and capstone presentation (PPT) |
+| `dataset/` | Hindi-Marwari health sentences CSV used for model training |
+| `screenshots and Images/` | Web app interface screenshots and UI images |
+| `requirements.txt` | Python libraries required to run the project |
 
 > **Note:** Source code is maintained privately.
 > For a live demo or code walkthrough, connect via [LinkedIn](https://www.linkedin.com/in/teena-sharma-professional).
